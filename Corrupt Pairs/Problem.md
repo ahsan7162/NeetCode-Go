@@ -1,4 +1,4 @@
-#Corrupt Pairs
+# Corrupt Pairs
 
 Statement
 We are given an unsorted array, nums, with n
@@ -6,4 +6,5 @@ We are given an unsorted array, nums, with n
 
 Constraints:
 2 ≤ n ≤ 10^3 
+
 1 ≤ nums[i] ≤ n
