@@ -8,9 +8,10 @@ Given an integer array, bills, where bills\[i] represents the bill paid by the i
 
 
 
-\## Constrainsts
+## Constrainsts
 
 
 
 * 1≤ bills.length ≤ 500
 * bills\[i] is either 5, 10, or 20.
+
